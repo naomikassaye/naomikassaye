@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Naomi 👋
 
-<!--
-**naomikassaye/naomikassaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Science student at Addis Ababa University interested in Artificial Intelligence, Machine Learning, and Full-stack Development.
 
-Here are some ideas to get you started:
+Currently:
+- AI Intern at iCog Labs
+- Building web applications with React and Node.js
+- Exploring intelligent systems and scalable software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+Languages:
+- Python
+- Java
+- JavaScript
+- C++
+
+Frontend:
+- React.js
+- HTML
+- CSS
+
+Backend:
+- Node.js
+- PHP
+
+AI/ML:
+- TensorFlow
+- PyTorch
+- RAG Systems
+- MeTTa
+
+## Featured Projects
+
+🚀 AAU Project Showcase  
+🚀 Top Handyman Services
